@@ -8,4 +8,4 @@ BotSat is a fun project that combines elements of CanSat competitions with DIY r
 
 The project is inspired by traditional CanSat competitions but with our own twist - using a water-powered bottle rocket as the launch vehicle. This makes the project more accessible and fun while still providing valuable learning opportunities in rocketry, electronics, and data analysis.
 
-Checkout https://www.k-si.com/projects/botsat/ for more information!
+Check out our [project page](https://www.k-si.com/projects/botsat/) for more information!
